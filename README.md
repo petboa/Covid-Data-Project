@@ -42,10 +42,3 @@ This repository contains a set of SQL queries and views for analyzing COVID-19 d
 
 1. Execute the SQL scripts using your preferred SQL client.
 2. Ensure that the necessary database and tables (`CovidDeaths` and `CovidVaccinations`) are available.
-
-## Notes
-
-- The queries assume that the data is structured in a way consistent with the provided table names and columns.
-- Adjustments may be needed based on your specific database structure and requirements.
-
----
